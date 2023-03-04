@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  },
+  "name": "akka",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajkumar-2k21/AKKA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajkumar-2k21/AKKA/issues"
+  },
+  "homepage": "https://github.com/Rajkumar-2k21/AKKA#readme",
+  "description": ""
+}
